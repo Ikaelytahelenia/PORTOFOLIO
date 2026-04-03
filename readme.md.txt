@@ -3,22 +3,22 @@ Sarjana Teknik Informatika
 Full-Stack Developer | Data Enthusiast | Problem Solver
 
 
-(Ganti dengan foto profesional Anda)
 
 📧 Kontak
-Email: ika.elynia@example.com (Ganti dengan email asli Anda)
+Email: samathapekalongan2020@gmail.com
 LinkedIn: linkedin.com/in/ikaelytahelenia
-GitHub: github.com/ikaelyta
-Phone: +62 812-3456-7890
-Location: Jakarta, Indonesia
+GitHub: github.com/ikaelytahelenia
+Phone: +62 857-8073-0268
+Location: Pekalongan, Indonesia
+
 👨‍🎓 Pendidikan
 Sarjana Teknik Informatika
-Universitas [Nama Universitas Anda]
-2020 - 2024
+Universitas Stikubank Semarang
+2007 - 2011
 
 IPK: 3.85/4.00
 Skripsi: "Optimalisasi Machine Learning untuk Prediksi Churn Rate pada E-Commerce"
-Prestasi: Juara 2 Kompetisi Programming Nasional 2023
+
 💼 Pengalaman Kerja
 Full-Stack Developer
 PT. TechSolution Indonesia
