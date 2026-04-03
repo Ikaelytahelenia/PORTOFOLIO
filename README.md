@@ -1,15 +1,24 @@
 
 Ika Elyta Helenia
+
 Sarjana Teknik Informatika
+
 Full-Stack Developer | Data Enthusiast | Problem Solver
 
 
 
+
+
 📧 Kontak
+
 Email: samathapekalongan2020@gmail.com
+
 LinkedIn: linkedin.com/in/ikaelytahelenia
+
 GitHub: github.com/ikaelytahelenia
+
 Phone: +62 857-8073-0268
+
 Location: Pekalongan, Indonesia
 
 👨‍🎓 Pendidikan
@@ -39,6 +48,7 @@ mermaid
 
 Copy code
 graph TD
+
     A[Frontend] --> B[React.js]
     A --> C[Vue.js]
     A --> D[Next.js]
@@ -121,6 +131,7 @@ Best Project Award Capstone Project 2024
 📈 Statistik GitHub
 
 💬 Testimoni
+
 "Ika adalah developer berbakat dengan kemampuan problem-solving luar biasa. Kontribusinya sangat berharga bagi tim kami!"
 — Budi Santoso, CTO PT. TechSolution
 
