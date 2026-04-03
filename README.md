@@ -1,35 +1,24 @@
-PORTOFOLIO
-
-Ika Elyta Helenia
-
+Portofolio Ika Elyta Helenia
 Sarjana Teknik Informatika
-
 Full-Stack Developer | Data Enthusiast | Problem Solver
 
 
-
-
+(Ganti dengan foto profesional Anda)
 
 📧 Kontak
-
-Email: samathapekalongan2020@gmail.com
-
+Email: ika.elynia@example.com (Ganti dengan email asli Anda)
 LinkedIn: linkedin.com/in/ikaelytahelenia
-
-GitHub: github.com/ikaelytahelenia
-
-Phone: +62 857-8073-0268
-
-Location: Pekalongan, Indonesia
-
+GitHub: github.com/ikaelyta
+Phone: +62 812-3456-7890
+Location: Jakarta, Indonesia
 👨‍🎓 Pendidikan
 Sarjana Teknik Informatika
-Universitas Stikubank Semarang
-2007 - 2011
+Universitas [Nama Universitas Anda]
+2020 - 2024
 
 IPK: 3.85/4.00
 Skripsi: "Optimalisasi Machine Learning untuk Prediksi Churn Rate pada E-Commerce"
-
+Prestasi: Juara 2 Kompetisi Programming Nasional 2023
 💼 Pengalaman Kerja
 Full-Stack Developer
 PT. TechSolution Indonesia
@@ -49,7 +38,6 @@ mermaid
 
 Copy code
 graph TD
-
     A[Frontend] --> B[React.js]
     A --> C[Vue.js]
     A --> D[Next.js]
@@ -132,7 +120,6 @@ Best Project Award Capstone Project 2024
 📈 Statistik GitHub
 
 💬 Testimoni
-
 "Ika adalah developer berbakat dengan kemampuan problem-solving luar biasa. Kontribusinya sangat berharga bagi tim kami!"
 — Budi Santoso, CTO PT. TechSolution
 
@@ -143,5 +130,4 @@ Best Project Award Capstone Project 2024
 Membangun E-Commerce Scalable dengan MERN Stack
 Machine Learning untuk Bisnis: Panduan Praktis
 © 2024 Ika Elyta Helenia. Dibuat dengan ❤️ menggunakan Markdown
-
 
