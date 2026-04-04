@@ -3,7 +3,6 @@
 </p>
 
 
-
 (Ganti dengan foto profesional Anda)
 
 
