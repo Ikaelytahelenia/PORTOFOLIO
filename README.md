@@ -31,7 +31,10 @@ Data Science: Python (Pandas, Scikit-learn), Tableau/PowerBI, SQL.
 Tools: Git, AWS/Vercel, Agile Methodology.
 
 📧 LET'S CONNECT
-portfolio Web: ikaelyta.dev
+
+
+
+Portfolio Web: ikaelyta.dev
 
 
 
@@ -157,7 +160,7 @@ PT Arina Bayuswakarsa menghadapi kendala dalam pengelolaan data operasional (sep
 2. The Solution (The Full-Stack Approach)
 Saya merancang dan membangun sistem informasi berbasis web yang terintegrasi (End-to-End).
 Front-End: Membangun antarmuka yang intuitif menggunakan Bootstrap/Tailwind CSS agar staf lapangan hingga manajer dapat menggunakan sistem dengan mudah (Web Design focus).
-Back-End: Mengembangkan logika server yang aman menggunakan PHP (Laravel/CodeIgniter) atau Node.js untuk memastikan integritas data.
+Back-End: Mengembangkan logika server yang aman menggunakan PHP (Laravel/CodeIgniter) atau Node.js untuk memastikan integritas data. Meningkatkan efisiensi 60%" atau "Mengurangi error 40%.
 Database: Arsitektur database yang terstruktur menggunakan MySQL/PostgreSQL untuk menangani ribuan entri data secara cepat.
 3. Data Enthusiast & Problem Solver Features
 Reporting Module: Menyediakan fitur ekspor laporan otomatis (PDF/Excel) yang akurat.
@@ -244,6 +247,9 @@ AWS ⭐⭐⭐
 
 
 🚀 Proyek Unggulan
+
+
+
 1. E-Commerce Platform "Shopify Clone"
 GitHub
 
@@ -252,6 +258,9 @@ Tech Stack: React, Node.js, MongoDB, Tailwind CSS
 Fitur lengkap: Authentication, Cart, Payment Integration, Admin Dashboard.
 Demo: shopify-clone.ikaelyta.com
 Hasil: 500+ users test, load time < 2s.
+
+
+
 2. Customer Churn Prediction Dashboard
 GitHub
 
@@ -260,6 +269,9 @@ Tech Stack: Python, Scikit-learn, Streamlit, PostgreSQL
 Model ML dengan akurasi 92% menggunakan XGBoost.
 Dashboard interaktif untuk business insights.
 Demo: churn.ikaelyta.com
+
+
+
 3. Personal Finance Tracker
 Tech Stack: Next.js, Firebase, Chart.js
 
@@ -302,8 +314,14 @@ Best Project Award Capstone Project 2024
 📈 Statistik GitHub
 
 💬 Testimoni
+
+
+
 "Ika adalah developer berbakat dengan kemampuan problem-solving luar biasa. Kontribusinya sangat berharga bagi tim kami!"
 — Budi Santoso, CTO PT. TechSolution
+
+
+
 
 "Proyek churn prediction Ika memberikan insights berharga yang membantu kami retain 20% lebih banyak customers."
 — Rina Wijaya, Data Analyst Lead
