@@ -227,7 +227,7 @@ Tahun 2011-2014
 
 
 
-🛠️ Skills mermaid
+🛠️ Skills 
 
 Copy code
 graph TD
