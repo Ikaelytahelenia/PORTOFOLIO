@@ -1,5 +1,5 @@
 <h1>Ika Elyta Helenia</h1>
-<p> Web Developer | UI Designer| web Designer |Full-Stack Developer | Data Enthusiast | Problem Solver
+<p> Web Developer | UI Designer| Web Designer |Full-Stack Developer | Data Enthusiast | Problem Solver
 </p>
 
 
