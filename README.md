@@ -61,7 +61,7 @@ Tools: Git, AWS/Vercel, Agile Methodology.
 
 
 
-Portfolio Web: ikaelyta.dev
+Portfolio Web: ikaelytahelenia.is-a.dev
 
 
 
